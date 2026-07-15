@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T05:26:20.137202+00:00",
-  "totalJobs": 94,
+  "lastUpdated": "2026-07-15T05:27:02.571017+00:00",
+  "totalJobs": 102,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -266,6 +266,31 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48756639",
+      "company": "Dashdoc",
+      "position": "Software Engineer",
+      "location": "REMOTE / EU",
+      "remote": true,
+      "salary": "€50k–€80k",
+      "description": "Dashdoc is a SaaS Transport Management System for road freight. We help carriers and shippers run transport operations on one shared platform. We’re hiring a product-minded engineer to help us expand in Belgium and the Netherlands. Local specifics: e-CMR mandates, digital waste regulations,...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48756639",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48756639",
+      "postedAt": "2026-07-02T04:41:27+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Go",
+        "PostgreSQL",
+        "GCP",
+        "Claude Code",
+        "Cursor",
+        "React Native",
+        "Django"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48754933",
       "company": "Connie Health",
       "position": "Senior Analytics Engineer",
@@ -488,6 +513,27 @@
         "Cursor"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "anth-5198999008",
+      "company": "Anthropic",
+      "position": "Technical Architect",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic is hiring Technical Architects: hands-on builders and live technical communicators who help our customers go from \"we bought Claude\" to \"our people use it every day.\" You'll be the technical partner our CSMs pull into the room whenever the work gets technical. For our customers, that's...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198999008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5198999008",
+      "postedAt": "2026-06-25T03:30:52-04:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5277834008",
@@ -1055,6 +1101,30 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48359608",
+      "company": "JustPark",
+      "position": "Lead Full Stack Engineer",
+      "location": "London (Hybrid) & Dallas (Hybrid)",
+      "remote": false,
+      "salary": "",
+      "description": "JustPark is a parking platform serving millions of drivers and operators across the UK and US. We're hiring two lead engineers. Lead Full Stack Engineer – London, UK React/TypeScript + PHP/Laravel/Go. Lead engineers across our consumer platform, contribute to architecture, and help us scale...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48359608",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48359608",
+      "postedAt": "2026-06-01T17:07:04+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Python",
+        "AWS",
+        "GCP",
+        "Claude Code",
+        "React Native",
+        "Django"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48358775",
       "company": "Emergences Labs (emergences.ai)",
       "position": "Software Engineer",
@@ -1092,6 +1162,28 @@
       "postedAt": "2026-06-01T16:05:17+00:00",
       "tags": [
         "Next.js",
+        "Claude Code",
+        "Ruby",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48358657",
+      "company": "*Scribd",
+      "position": "Lead Product Manager",
+      "location": "REMOTE*",
+      "remote": true,
+      "salary": "",
+      "description": "Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise. We're a YC '06 company — one of the oldest still around — running...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48358657",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48358657",
+      "postedAt": "2026-06-01T16:01:15+00:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "AWS",
         "Claude Code",
         "Ruby",
         "Rails"
@@ -1221,6 +1313,42 @@
         "React",
         "TypeScript",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48062670",
+      "company": "We The Flywheel",
+      "position": "Software Engineer",
+      "location": "Ho Chi Minh City (Hybrid)",
+      "remote": false,
+      "salary": "",
+      "description": "We are a global media network, digital consultancy, and product studio focused on helping companies grow through technology and reach audiences at scale. We’re opening up a role for an Entry-Level Agentic Engineer in Ho Chi Minh City — someone who’s already experimenting with AI tools to build,...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48062670",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48062670",
+      "postedAt": "2026-05-08T13:17:11+00:00",
+      "tags": [
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48059654",
+      "company": "HME Technologies",
+      "position": "Software Engineer",
+      "location": "Full-Time (Remote)",
+      "remote": true,
+      "salary": "$40k-$75k",
+      "description": "HME Technologies ( https://hmetech.com/ ) is a small, profitable media and affiliate marketing company. We build audiences, sell sponsorships, and run a growing portfolio of content properties across YouTube and emerging platforms. We're operator-run, AI-native, and looking for our first AI...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48059654",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48059654",
+      "postedAt": "2026-05-08T07:02:43+00:00",
+      "tags": [
+        "JavaScript",
+        "Python"
       ],
       "companyIcon": ""
     },
@@ -1556,6 +1684,26 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5197597008",
+      "company": "Anthropic",
+      "position": "Technical Specialist, Claude Code",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic launches products at lightning speed and many of them grow at an unprecedented pace, too. For no product is this more true than Claude Code, the fastest-growing software product in history. That said, speed of adoption is not the same as depth of adoption. We’re building a team of...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197597008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197597008",
+      "postedAt": "2026-04-23T18:13:14-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5192805008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Commercial",
@@ -1857,6 +2005,28 @@
         "Rust",
         "AWS",
         "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5075093008",
+      "company": "Anthropic",
+      "position": "Strategic Account Executive, Cybersecurity",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "As a Strategic Account Executive focused on cybersecurity, you'll own some of Anthropic's most strategic cybersecurity relationships—companies building the next generation of AI-powered security products. These aren't typical enterprise accounts; they're partners shaping how AI transforms the...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "postedAt": "2026-01-27T23:00:33-05:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Copilot",
+        "Rails",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
